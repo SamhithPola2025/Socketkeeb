@@ -1,0 +1,9 @@
+Reference,Quantity,Value,Footprint,Manufacturer,Part Number,Description,Unit Price (USD),Total Price (USD),Source Link
+STAB,1 set,n/a,PCB Mount,Gateron,n/a,Gateron PCB-mounted stabilizer set (various sizes),8.00,8.00,https://www.gateron.com/products/gateron-pcb-mounted-stabilizer?VariantsId=10208
+U1,1,RP2040,Pico W,Raspberry Pi,SC0918,Raspberry Pi Pico W microcontroller,7.65,7.65,https://www.digikey.com/en/products/detail/raspberry-pi/SC0918/16608263
+SW1-SW70,70,Kailh Choc Violet,Kailh PG1350,Kailh,PG1350,Kailh low-profile Choc Violet switch (70 pcs),44.74,44.74,https://www.aliexpress.us/item/3256806826186563.html
+D1-D200,200,1N4148,DO-35,ON Semi,1N4148,1N4148 100V 200mA diode (200 pcs),6.76,6.76,https://www.digikey.com/en/products/detail/onsemi/1N4148/458603
+KC1-KC70,70,n/a,n/a,3D printed,n/a,Custom 3D printed keycaps,0.00,0.00,n/a
+,,, ,,, ,,, ,,, 
+,,, ,,, ,,, ,,, **Subtotal**,67.15,,
+,,, ,,, ,,, ,,, **Estimated total (with shipping/tax rounded)**100.00,,
