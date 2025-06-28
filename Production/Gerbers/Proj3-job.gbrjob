@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.2"
     },
-    "CreationDate": "2025-06-27T22:30:49-07:00"
+    "CreationDate": "2025-06-27T23:50:22-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -89,11 +89,6 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Proj3-User_Comments.gbr",
-      "FileFunction": "Other,User",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "Proj3-User_Eco1.gbr",
       "FileFunction": "Other,User",
       "FilePolarity": "Positive"
@@ -101,11 +96,6 @@
     {
       "Path": "Proj3-User_Eco2.gbr",
       "FileFunction": "Other,User",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "Proj3-Edge_Cuts.gbr",
-      "FileFunction": "Profile",
       "FilePolarity": "Positive"
     },
     {
