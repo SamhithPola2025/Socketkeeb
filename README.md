@@ -34,3 +34,5 @@ This keyboard was inspired by my need for a keyboard that had low profile switch
 # Pictures:
 ![image](https://github.com/user-attachments/assets/0c2b3d44-9a00-4dfe-a43d-a4d7d46aee11)
 ![image](https://github.com/user-attachments/assets/02e37ef2-6147-4235-89ba-2cb975b90a06)
+![Screenshot 2025-06-27 at 9 40 19 PM](https://github.com/user-attachments/assets/efe2a784-03e8-4bb0-acbe-552fa9638b23)
+
