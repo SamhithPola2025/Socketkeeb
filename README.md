@@ -39,4 +39,4 @@ This keyboard was inspired by my need for a keyboard that had low profile switch
 # Build Pictures:
 ![IMG_35EF4666-0DB9-4445-A45B-9BEA4F2A8813 2](https://github.com/user-attachments/assets/e276ea3a-c7be-4940-b66f-c9bd03e14e81)
 ![IMG_1720](https://github.com/user-attachments/assets/7d0967b1-c837-4f88-aab3-9528cae0af68)
-
+## My printer broke down, not enough time for printing legion, have to go to Barcelona tommorow. Decided to 3D print what I could, and I got permission to submit demo form without keycaps. Hope that clears up a few things regarding the demo video!
