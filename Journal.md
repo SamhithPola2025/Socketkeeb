@@ -3,7 +3,7 @@
 This file is where I store all my journaling for my keyboard starting from day one to the end of the building, this will be updated occasionally (every day).
 
 ## DESIGNING (4 DAYS) 
-## ~20 HRS
+## ~30 HRS
 
 # Day 1:
 ~ 4hrs
